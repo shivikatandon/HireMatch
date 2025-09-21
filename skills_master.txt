@@ -1,0 +1,38 @@
+# Core Programming
+python
+r
+c++
+
+# Data Science / AI
+machine learning
+deep learning
+generative ai
+computer vision
+nlp
+llms
+data science
+
+# Data Engineering
+spark
+pyspark
+kafka
+databricks
+data pipelines
+data engineering
+etl
+
+# Libraries
+pandas
+numpy
+
+# Tools
+tableau
+power bi
+excel
+
+# Processes / Methods
+data visualization
+data cleaning
+automation
+exploratory data analysis
+eda
